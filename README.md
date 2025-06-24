@@ -1,2 +1,2 @@
-# Microservice3.0
-Microservice 3rd try
+# 2025-01-Microservices-Java
+Projeto de Microservices em Java utilizando Spring Boot

@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.edu.atitus.greeting_service.configs.GreetingConfig;
 
-@SuppressWarnings("unused")
 @RestController
 @RequestMapping("greeting-service")
 public class GreetingController {
